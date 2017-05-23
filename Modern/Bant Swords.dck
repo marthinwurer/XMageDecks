@@ -1,0 +1,33 @@
+2 [MMA:13] Elspeth, Knight-Errant
+3 [DTK:181] Den Protector
+2 [M13:229] Sunpetal Grove
+4 [ZEN:220] Misty Rainforest
+2 [M11:188] Obstinate Baloth
+3 [KTK:248] Windswept Heath
+1 [RTR:241] Hallowed Fountain
+4 [NPH:159] Spellskite
+4 [M11:165] Birds of Paradise
+3 [KTK:233] Flooded Strand
+2 [KTK:266] Forest
+2 [ZEN:67] Spell Pierce
+4 [CON:15] Path to Exile
+4 [CON:87] Noble Hierarch
+1 [ISD:254] Island
+2 [MBS:138] Sword of Feast and Famine
+2 [RTR:248] Temple Garden
+3 [MMA:216] Sword of Fire and Ice
+1 [ISD:241] Hinterland Harbor
+1 [ISD:251] Plains
+3 [ISD:213] Geist of Saint Traft
+3 [M11:62] Mana Leak
+4 [GTC:240] Breeding Pool
+SB: 1 [ZEN:67] Spell Pierce
+SB: 2 [RTR:201] Supreme Verdict
+SB: 1 [DTK:181] Den Protector
+SB: 1 [NPH:161] Sword of War and Peace
+SB: 4 [ARB:75] Qasali Pridemage
+SB: 2 [WWK:11] Kor Firewalker
+SB: 1 [M11:62] Mana Leak
+SB: 3 [RTR:18] Rest in Peace
+LAYOUT MAIN:(1,5)(CMC,false,50)|([ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[RTR:248],[RTR:248],[KTK:248],[KTK:248],[KTK:248],[GTC:240],[GTC:240],[GTC:240],[GTC:240],[M13:229],[M13:229],[ISD:241],[KTK:233],[KTK:233],[KTK:233],[RTR:241],[KTK:266],[KTK:266],[ISD:251],[ISD:254])([CON:87],[CON:87],[CON:87],[CON:87],[M11:165],[M11:165],[M11:165],[M11:165],[ZEN:67],[ZEN:67],[CON:15],[CON:15],[CON:15],[CON:15])([NPH:159],[NPH:159],[NPH:159],[NPH:159],[DTK:181],[DTK:181],[DTK:181],[M11:62],[M11:62],[M11:62])([MMA:216],[MMA:216],[MMA:216],[MBS:138],[MBS:138],[ISD:213],[ISD:213],[ISD:213])([M11:188],[M11:188],[MMA:13],[MMA:13])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([ZEN:67],[M11:62])([ARB:75],[ARB:75],[ARB:75],[ARB:75],[WWK:11],[WWK:11],[RTR:18],[RTR:18],[RTR:18])([DTK:181])([NPH:161])([RTR:201],[RTR:201])

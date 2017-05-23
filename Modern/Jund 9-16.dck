@@ -1,0 +1,37 @@
+4 [WWK:141] Raging Ravine
+1 [KLD:264] Forest
+4 [M11:149] Lightning Bolt
+4 [ARB:46] Terminate
+4 [ROE:115] Inquisition of Kozilek
+1 [KTK:249] Wooded Foothills
+4 [FUT:153] Tarmogoyf
+2 [THS:107] Thoughtseize
+1 [RTR:243] Overgrown Tomb
+4 [ZEN:229] Verdant Catacombs
+1 [EMN:85] Collective Brutality
+1 [GTC:247] Stomping Ground
+2 [SHM:229] Kitchen Finks
+3 [ISD:105] Liliana of the Veil
+4 [RAV:81] Dark Confidant
+1 [M12:145] Grim Lavamancer
+2 [RTR:141] Abrupt Decay
+3 [M14:195] Scavenging Ooze
+2 [EVE:180] Twilight Mire
+1 [EMN:93] Liliana, the Last Hope
+1 [ARB:92] Maelstrom Pulse
+3 [KTK:230] Bloodstained Mire
+1 [RTR:238] Blood Crypt
+2 [KLD:256] Swamp
+4 [SOM:224] Blackcleave Cliffs
+SB: 1 [EMN:93] Liliana, the Last Hope
+SB: 1 [RTR:231] Pithing Needle
+SB: 1 [M13:193] Thragtusk
+SB: 3 [NPH:74] Surgical Extraction
+SB: 2 [OGW:86] Kalitas, Traitor of Ghet
+SB: 3 [9ED:176] Blood Moon
+SB: 1 [5DN:118] Engineered Explosives
+SB: 1 [M12:145] Grim Lavamancer
+SB: 1 [THS:107] Thoughtseize
+SB: 1 [DTK:98] Duress
+LAYOUT MAIN:(1,4)(CMC,false)|([WWK:141],[WWK:141],[WWK:141],[WWK:141],[KLD:264],[KTK:249],[RTR:243],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229],[GTC:247],[EVE:180],[EVE:180],[KTK:230],[KTK:230],[KTK:230],[RTR:238],[KLD:256],[KLD:256],[SOM:224],[SOM:224],[SOM:224],[SOM:224])([M11:149],[M11:149],[M11:149],[M11:149],[ROE:115],[ROE:115],[ROE:115],[ROE:115],[THS:107],[THS:107],[M12:145])([ARB:46],[ARB:46],[ARB:46],[ARB:46],[FUT:153],[FUT:153],[FUT:153],[FUT:153],[EMN:85],[RAV:81],[RAV:81],[RAV:81],[RAV:81],[RTR:141],[RTR:141],[M14:195],[M14:195],[M14:195])([SHM:229],[SHM:229],[ISD:105],[ISD:105],[ISD:105],[EMN:93],[ARB:92])
+LAYOUT SIDEBOARD:(1,5)(CMC,false)|([5DN:118])([RTR:231],[M12:145],[THS:107],[DTK:98],[NPH:74],[NPH:74],[NPH:74])([EMN:93],[9ED:176],[9ED:176],[9ED:176])([OGW:86],[OGW:86])([M13:193])

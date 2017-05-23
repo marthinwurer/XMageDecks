@@ -1,0 +1,21 @@
+4 [WWK:140] Quicksand
+4 [TMP:296] Sapphire Medallion
+4 [TSB:35] Whispers of the Muse
+3 [EXO:35] Forbid
+4 [7ED:67] Counterspell
+4 [TMP:71] Legacy's Allure
+2 [TMP:55] Capsize
+3 [TMP:98] Tradewind Rider
+4 [VIS:37] Man-o'-War
+4 [WTH:45] Ophidian
+17 [AKH:251] Island
+1 [STH:43] Silver Wyvern
+4 [VIS:34] Impulse
+2 [M12:63] Mana Leak
+SB: 3 [WTH:155] Phyrexian Furnace
+SB: 2 [7ED:307] Meekstone
+SB: 2 [WTH:154] Null Rod
+SB: 1 [INV:51] Disrupt
+SB: 4 [5ED:94] Hydroblast
+LAYOUT MAIN:(1,6)(CMC,false,50)|([AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[WWK:140],[WWK:140],[WWK:140],[WWK:140])([TSB:35],[TSB:35],[TSB:35],[TSB:35])([7ED:67],[7ED:67],[7ED:67],[7ED:67],[VIS:34],[VIS:34],[VIS:34],[VIS:34],[M12:63],[M12:63],[TMP:296],[TMP:296],[TMP:296],[TMP:296],[TMP:71],[TMP:71],[TMP:71],[TMP:71])([VIS:37],[VIS:37],[VIS:37],[VIS:37],[WTH:45],[WTH:45],[WTH:45],[WTH:45],[TMP:55],[TMP:55],[EXO:35],[EXO:35],[EXO:35])([TMP:98],[TMP:98],[TMP:98])([STH:43])
+LAYOUT SIDEBOARD:(1,2)(CMC,false,50)|([INV:51],[5ED:94],[5ED:94],[5ED:94],[5ED:94],[7ED:307],[7ED:307],[WTH:155],[WTH:155],[WTH:155])([WTH:154],[WTH:154])

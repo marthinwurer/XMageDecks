@@ -1,0 +1,27 @@
+20 [CHK:301] Mountain
+1 [THS:112] Anger of the Gods
+7 [ALA:236] Island
+1 [5DN:36] Serum Visions
+4 [SHM:151] Swans of Bryn Argoll
+1 [M10:146] Lightning Bolt
+4 [KTK:243] Swiftwater Cliffs
+4 [10E:228] Seismic Assault
+1 [OGW:182] Wandering Fumarole
+2 [RTR:247] Steam Vents
+2 [ORI:156] Molten Vortex
+4 [JOU:164] Temple of Epiphany
+4 [WWK:42] Treasure Hunt
+4 [ORI:251] Shivan Reef
+1 [ORI:51] Day's Undoing
+SB: 2 [ZEN:67] Spell Pierce
+SB: 2 [M15:237] Tormod's Crypt
+SB: 2 [THS:112] Anger of the Gods
+SB: 1 [ORI:156] Molten Vortex
+SB: 1 [M10:146] Lightning Bolt
+SB: 1 [ORI:76] Sphinx's Tutelage
+SB: 3 [ORI:163] Smash to Smithereens
+SB: 1 [DTK:150] Rending Volley
+SB: 1 [M11:62] Mana Leak
+SB: 1 [ISD:61] Laboratory Maniac
+LAYOUT MAIN:(1,5)(CMC,false,50)|([ORI:251],[ORI:251],[ORI:251],[ORI:251],[RTR:247],[RTR:247],[KTK:243],[KTK:243],[KTK:243],[KTK:243],[JOU:164],[JOU:164],[JOU:164],[JOU:164],[OGW:182],[ALA:236],[ALA:236],[ALA:236],[ALA:236],[ALA:236],[ALA:236],[ALA:236],[CHK:301],[CHK:301],[CHK:301],[CHK:301],[CHK:301],[CHK:301],[CHK:301],[CHK:301],[CHK:301],[CHK:301],[CHK:301],[CHK:301],[CHK:301],[CHK:301],[CHK:301],[CHK:301],[CHK:301],[CHK:301],[CHK:301],[CHK:301])([M10:146],[5DN:36],[ORI:156],[ORI:156])([WWK:42],[WWK:42],[WWK:42],[WWK:42])([THS:112],[ORI:51],[10E:228],[10E:228],[10E:228],[10E:228])([SHM:151],[SHM:151],[SHM:151],[SHM:151])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([M15:237],[M15:237])([M10:146],[ORI:156],[DTK:150],[ZEN:67],[ZEN:67])([M11:62],[ORI:163],[ORI:163],[ORI:163])([THS:112],[THS:112],[ISD:61],[ORI:76])

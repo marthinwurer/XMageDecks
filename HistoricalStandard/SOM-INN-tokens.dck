@@ -1,0 +1,23 @@
+1 [SOM:6] Elspeth Tirel
+2 [NPH:161] Sword of War and Peace
+4 [ISD:19] Intangible Virtue
+4 [ISD:11] Doomed Traveler
+4 [ISD:22] Midnight Haunting
+3 [DKA:158] Vault of the Archangel
+4 [ISD:242] Isolated Chapel
+3 [AVR:238] Swamp
+13 [AVR:232] Plains
+1 [ISD:246] Shimmering Grotto
+4 [DKA:12] Lingering Souls
+4 [M12:23] Honor of the Pure
+3 [M13:22] Oblivion Ring
+2 [DKA:142] Sorin, Lord of Innistrad
+4 [DKA:8] Gather the Townsfolk
+4 [ISD:6] Champion of the Parish
+SB: 2 [MBS:43] Go for the Throat
+SB: 4 [M13:90] Duress
+SB: 4 [M12:11] Celestial Purge
+SB: 1 [M12:12] Day of Judgment
+SB: 4 [MBS:14] Mirran Crusader
+LAYOUT MAIN:(1,6)(CMC,false,50)|([ISD:242],[ISD:242],[ISD:242],[ISD:242],[ISD:246],[DKA:158],[DKA:158],[DKA:158],[AVR:238],[AVR:238],[AVR:238],[AVR:232],[AVR:232],[AVR:232],[AVR:232],[AVR:232],[AVR:232],[AVR:232],[AVR:232],[AVR:232],[AVR:232],[AVR:232],[AVR:232],[AVR:232])([ISD:6],[ISD:6],[ISD:6],[ISD:6],[ISD:11],[ISD:11],[ISD:11],[ISD:11])([DKA:8],[DKA:8],[DKA:8],[DKA:8],[ISD:19],[ISD:19],[ISD:19],[ISD:19],[M12:23],[M12:23],[M12:23],[M12:23])([DKA:12],[DKA:12],[DKA:12],[DKA:12],[M13:22],[M13:22],[M13:22],[ISD:22],[ISD:22],[ISD:22],[ISD:22],[NPH:161],[NPH:161])([DKA:142],[DKA:142])([SOM:6])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([M13:90],[M13:90],[M13:90],[M13:90])([MBS:43],[MBS:43],[M12:11],[M12:11],[M12:11],[M12:11])([MBS:14],[MBS:14],[MBS:14],[MBS:14])([M12:12])

@@ -1,0 +1,30 @@
+2 [AER:57] Fatal Push
+1 [WWK:145] Tectonic Edge
+2 [NPH:4] Blade Splicer
+3 [ROE:115] Inquisition of Kozilek
+3 [KTK:202] Sorin, Solemn Visitor
+2 [MM2:71] Bitterblossom
+3 [THS:107] Thoughtseize
+2 [PLC:85] Damnation
+4 [CON:15] Path to Exile
+4 [ZEN:219] Marsh Flats
+4 [ISD:240] Ghost Quarter
+2 [ODY:333] Plains
+4 [DKA:12] Lingering Souls
+4 [KLD:245] Concealed Courtyard
+2 [KLD:235] Smuggler's Copter
+4 [GTC:242] Godless Shrine
+2 [ONS:342] Swamp
+3 [BFZ:29] Gideon, Ally of Zendikar
+4 [ISD:105] Liliana of the Veil
+1 [7ED:57] Wrath of God
+4 [BFZ:244] Shambling Vent
+SB: 2 [MM2:193] Fulminator Mage
+SB: 1 [MBS:43] Go for the Throat
+SB: 3 [TSB:6] Disenchant
+SB: 1 [WWK:145] Tectonic Edge
+SB: 4 [RTR:18] Rest in Peace
+SB: 3 [M12:40] Timely Reinforcements
+SB: 1 [7ED:57] Wrath of God
+LAYOUT MAIN:(1,5)(CMC,false,50)|([KLD:245],[KLD:245],[KLD:245],[KLD:245],[GTC:242],[GTC:242],[GTC:242],[GTC:242],[ZEN:219],[ZEN:219],[ZEN:219],[ZEN:219],[ISD:240],[ISD:240],[ISD:240],[ISD:240],[ODY:333],[ODY:333],[ONS:342],[ONS:342],[BFZ:244],[BFZ:244],[BFZ:244],[BFZ:244],[WWK:145])([CON:15],[CON:15],[CON:15],[CON:15],[ROE:115],[ROE:115],[ROE:115],[THS:107],[THS:107],[AER:57],[AER:57],[THS:107])([KLD:235],[KLD:235],[MM2:71],[MM2:71])([DKA:12],[DKA:12],[DKA:12],[DKA:12],[ISD:105],[ISD:105],[ISD:105],[ISD:105],[NPH:4],[NPH:4])([KTK:202],[KTK:202],[KTK:202],[BFZ:29],[BFZ:29],[BFZ:29],[PLC:85],[PLC:85],[7ED:57])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([WWK:145])([TSB:6],[TSB:6],[TSB:6],[MBS:43],[RTR:18],[RTR:18],[RTR:18],[RTR:18])([M12:40],[M12:40],[M12:40],[MM2:193],[MM2:193])([7ED:57])

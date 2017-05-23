@@ -1,0 +1,37 @@
+1 [EXO:128] Spike Weaver
+2 [TMP:298] Scroll Rack
+1 [10E:183] Thrull Surgeon
+4 [EXO:129] Survival of the Fittest
+3 [8ED:322] City of Brass
+2 [SHM:278] Reflecting Pool
+2 [10E:163] Nekrataal
+2 [10E:362] Underground River
+1 [STH:137] Volrath's Stronghold
+1 [7ED:11] Cloudchaser Eagle
+1 [WTH:112] Orcish Settlers
+1 [TSB:119] Gemstone Mine
+1 [TMP:98] Tradewind Rider
+1 [10E:307] Verdant Force
+2 [TSB:84] Spike Feeder
+2 [VIS:167] Undiscovered Paradise
+1 [AKH:252] Swamp
+4 [STH:75] Wall of Blossoms
+8 [AKH:254] Forest
+2 [TSB:89] Wall of Roots
+4 [EXO:72] Recurring Nightmare
+2 [INV:255] Lobotomy
+2 [6ED:260] Uktabi Orangutan
+1 [MIR:44] Spirit of the Night
+4 [M12:165] Birds of Paradise
+2 [10E:354] Karplusan Forest
+2 [WTH:101] Firestorm
+1 [VIS:37] Man-o'-War
+SB: 2 [WTH:155] Phyrexian Furnace
+SB: 2 [5ED:262] Pyroblast
+SB: 4 [8ED:180] Boil
+SB: 1 [8ED:49] Staunch Defenders
+SB: 1 [MIR:119] Hall of Gemstone
+SB: 2 [6ED:122] Dread of Night
+SB: 3 [VIS:56] Emerald Charm
+LAYOUT MAIN:(1,7)(CMC,false,50)|([8ED:322],[8ED:322],[8ED:322],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[TSB:119],[10E:354],[10E:354],[SHM:278],[SHM:278],[AKH:252],[10E:362],[10E:362],[VIS:167],[VIS:167],[STH:137])([M12:165],[M12:165],[M12:165],[M12:165],[WTH:101],[WTH:101])([WTH:112],[10E:183],[STH:75],[STH:75],[STH:75],[STH:75],[TSB:89],[TSB:89],[TMP:298],[TMP:298],[EXO:129],[EXO:129],[EXO:129],[EXO:129])([VIS:37],[TSB:84],[TSB:84],[6ED:260],[6ED:260],[EXO:72],[EXO:72],[EXO:72],[EXO:72])([7ED:11],[10E:163],[10E:163],[EXO:128],[TMP:98],[INV:255],[INV:255])([10E:307])([MIR:44])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([6ED:122],[6ED:122],[VIS:56],[VIS:56],[VIS:56],[WTH:155],[WTH:155],[5ED:262],[5ED:262])([MIR:119])([8ED:180],[8ED:180],[8ED:180],[8ED:180])([8ED:49])

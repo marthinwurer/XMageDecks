@@ -1,0 +1,30 @@
+3 [BFZ:249] Sunken Hollow
+4 [KLD:15] Fumigate
+3 [AER:57] Fatal Push
+2 [ORI:105] Languish
+4 [KTK:239] Polluted Delta
+4 [OGW:157] Reflector Mage
+3 [KTK:36] Dig Through Time
+4 [KTK:233] Flooded Strand
+2 [KLD:5] Authority of the Consuls
+1 [M15:248] Urborg, Tomb of Yawgmoth
+2 [DDF:79] Island
+3 [SOI:12] Declaration in Stone
+2 [ODY:333] Plains
+2 [EMN:15] Bruna, the Fading Light
+2 [BFZ:69] Anticipate
+3 [BFZ:241] Prairie Stream
+4 [EMN:28] Gisela, the Broken Blade
+2 [ONS:342] Swamp
+2 [BFZ:29] Gideon, Ally of Zendikar
+4 [ORI:60] Jace, Vryn's Prodigy
+4 [BFZ:244] Shambling Vent
+SB: 2 [KLD:5] Authority of the Consuls
+SB: 2 [KLD:14] Fragmentize
+SB: 2 [ORI:105] Languish
+SB: 2 [M11:68] Negate
+SB: 2 [SOI:251] Sorin, Grim Nemesis
+SB: 3 [M11:96] Duress
+SB: 2 [SOI:242] Anguished Unmaking
+LAYOUT MAIN:(1,8)(CMC,false,50)|([KTK:233],[KTK:233],[KTK:233],[KTK:233],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[BFZ:241],[BFZ:241],[BFZ:241],[BFZ:244],[BFZ:244],[BFZ:244],[BFZ:244],[BFZ:249],[BFZ:249],[BFZ:249],[M15:248],[DDF:79],[DDF:79],[ODY:333],[ODY:333],[ONS:342],[ONS:342])([AER:57],[AER:57],[AER:57],[KLD:5],[KLD:5])([ORI:60],[ORI:60],[ORI:60],[ORI:60],[BFZ:69],[BFZ:69],[SOI:12],[SOI:12],[SOI:12])([OGW:157],[OGW:157],[OGW:157],[OGW:157])([EMN:28],[EMN:28],[EMN:28],[EMN:28],[BFZ:29],[BFZ:29],[ORI:105],[ORI:105])([KLD:15],[KLD:15],[KLD:15],[KLD:15])([EMN:15],[EMN:15])([KTK:36],[KTK:36],[KTK:36])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([KLD:5],[KLD:5],[M11:96],[M11:96],[M11:96],[KLD:14],[KLD:14])([M11:68],[M11:68])([SOI:242],[SOI:242])([ORI:105],[ORI:105])([SOI:251],[SOI:251])
