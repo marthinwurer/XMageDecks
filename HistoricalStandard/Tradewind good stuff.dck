@@ -1,0 +1,28 @@
+2 [8ED:133] Fallen Angel
+4 [TSB:89] Wall of Roots
+3 [6ED:4] Armageddon
+4 [8ED:322] City of Brass
+3 [SHM:278] Reflecting Pool
+3 [10E:163] Nekrataal
+2 [10E:362] Underground River
+4 [M12:165] Birds of Paradise
+1 [7ED:11] Cloudchaser Eagle
+4 [TSB:119] Gemstone Mine
+3 [STH:58] Hermit Druid
+3 [TMP:70] Intuition
+3 [TMP:98] Tradewind Rider
+1 [TMP:10] Corpse Dance
+3 [TSB:84] Spike Feeder
+2 [VIS:167] Undiscovered Paradise
+4 [TMP:36] Living Death
+2 [AKH:252] Swamp
+4 [STH:75] Wall of Blossoms
+5 [AKH:254] Forest
+SB: 2 [7ED:11] Cloudchaser Eagle
+SB: 2 [INV:255] Lobotomy
+SB: 3 [6ED:260] Uktabi Orangutan
+SB: 4 [5ED:262] Pyroblast
+SB: 1 [TSB:84] Spike Feeder
+SB: 3 [VIS:37] Man-o'-War
+LAYOUT MAIN:(1,6)(CMC,false,50)|([8ED:322],[8ED:322],[8ED:322],[8ED:322],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[TSB:119],[TSB:119],[TSB:119],[TSB:119],[SHM:278],[SHM:278],[SHM:278],[AKH:252],[AKH:252],[10E:362],[10E:362],[VIS:167],[VIS:167])([M12:165],[M12:165],[M12:165],[M12:165])([STH:58],[STH:58],[STH:58],[STH:75],[STH:75],[STH:75],[STH:75],[TSB:89],[TSB:89],[TSB:89],[TSB:89])([TMP:10],[TMP:70],[TMP:70],[TMP:70],[TSB:84],[TSB:84],[TSB:84])([6ED:4],[6ED:4],[6ED:4],[7ED:11],[10E:163],[10E:163],[10E:163],[TMP:98],[TMP:98],[TMP:98])([8ED:133],[8ED:133],[TMP:36],[TMP:36],[TMP:36],[TMP:36])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([5ED:262],[5ED:262],[5ED:262],[5ED:262])([VIS:37],[VIS:37],[VIS:37],[TSB:84],[6ED:260],[6ED:260],[6ED:260])([7ED:11],[7ED:11],[INV:255],[INV:255])

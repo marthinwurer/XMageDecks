@@ -1,0 +1,26 @@
+4 [ALA:220] Arcane Sanctum
+2 [AKH:250] Plains
+4 [LRW:28] Knight of Meadowgrain
+4 [10E:182] Terror
+4 [LRW:10] Cloudgoat Ranger
+4 [10E:17] Glorious Anthem
+4 [EVE:176] Fetid Heath
+4 [LRW:281] Windbrisk Heights
+4 [ALA:202] Tidehollow Sculler
+4 [SHM:278] Reflecting Pool
+2 [M11:1] Ajani Goldmane
+4 [SHM:23] Spectral Procession
+2 [THS:107] Thoughtseize
+4 [MOR:58] Bitterblossom
+3 [M14:228] Mutavault
+4 [ORI:245] Caves of Koilos
+3 [LRW:125] Marsh Flitter
+SB: 3 [LRW:48] Wispmare
+SB: 3 [LRW:7] Burrenton Forge-Tender
+SB: 2 [M10:106] Mind Shatter
+SB: 1 [M11:1] Ajani Goldmane
+SB: 3 [10E:61] Wrath of God
+SB: 2 [ALA:9] Elspeth, Knight-Errant
+SB: 1 [THS:107] Thoughtseize
+LAYOUT MAIN:(1,7)(CMC,false,50)|([ALA:220],[ALA:220],[ALA:220],[ALA:220],[ORI:245],[ORI:245],[ORI:245],[ORI:245],[EVE:176],[EVE:176],[EVE:176],[EVE:176],[M14:228],[M14:228],[M14:228],[AKH:250],[AKH:250],[SHM:278],[SHM:278],[SHM:278],[SHM:278],[LRW:281],[LRW:281],[LRW:281],[LRW:281])([THS:107],[THS:107])([LRW:28],[LRW:28],[LRW:28],[LRW:28],[ALA:202],[ALA:202],[ALA:202],[ALA:202],[MOR:58],[MOR:58],[MOR:58],[MOR:58],[10E:182],[10E:182],[10E:182],[10E:182])([10E:17],[10E:17],[10E:17],[10E:17])([LRW:125],[LRW:125],[LRW:125],[M11:1],[M11:1])([LRW:10],[LRW:10],[LRW:10],[LRW:10])([SHM:23],[SHM:23],[SHM:23],[SHM:23])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([LRW:7],[LRW:7],[LRW:7],[THS:107])([M10:106],[M10:106])([LRW:48],[LRW:48],[LRW:48])([M11:1],[ALA:9],[ALA:9],[10E:61],[10E:61],[10E:61])

@@ -1,0 +1,22 @@
+4 [MMQ:129] Dark Ritual
+3 [M11:119] Unholy Strength
+2 [MIR:37] Sewer Rats
+4 [TSB:41] Dauthi Slayer
+4 [TSB:38] Bad Moon
+4 [EXO:53] Carnophage
+3 [EXO:64] Hatred
+3 [EXO:143] City of Traitors
+4 [TMP:48] Sarcomancy
+1 [INV:121] Reckless Spite
+4 [M11:83] Black Knight
+3 [5ED:47] Paralyze
+15 [AKH:252] Swamp
+2 [TMP:17] Dauthi Marauder
+4 [TMP:16] Dauthi Horror
+SB: 4 [STH:25] Wall of Souls
+SB: 3 [MIR:23] Forsaken Wastes
+SB: 2 [INV:121] Reckless Spite
+SB: 2 [10E:312] Bottle Gnomes
+SB: 4 [6ED:122] Dread of Night
+LAYOUT MAIN:(1,5)(CMC,false,50)|([AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[EXO:143],[EXO:143],[EXO:143])([MIR:37],[MIR:37],[EXO:53],[EXO:53],[EXO:53],[EXO:53],[MMQ:129],[MMQ:129],[MMQ:129],[MMQ:129],[M11:119],[M11:119],[5ED:47],[5ED:47],[5ED:47],[TMP:48],[TMP:48],[TMP:48],[TMP:48],[M11:119])([M11:83],[M11:83],[M11:83],[M11:83],[TSB:41],[TSB:41],[TSB:41],[TSB:41],[TMP:16],[TMP:16],[TMP:16],[TMP:16],[TSB:38],[TSB:38],[TSB:38],[TSB:38])([TMP:17],[TMP:17],[INV:121])([EXO:64],[EXO:64],[EXO:64])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([6ED:122],[6ED:122],[6ED:122],[6ED:122])([STH:25],[STH:25],[STH:25],[STH:25])([INV:121],[INV:121],[10E:312],[10E:312],[MIR:23],[MIR:23],[MIR:23])

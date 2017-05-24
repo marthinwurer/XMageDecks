@@ -1,0 +1,24 @@
+4 [TSB:14] Soltari Priest
+17 [AKH:250] Plains
+4 [TMP:257] Soltari Monk
+4 [M11:39] White Knight
+1 [10E:6] Aura of Silence
+3 [10E:32] Paladin en-Vec
+1 [EXO:20] Soltari Visionary
+4 [STH:124] Warrior en-Kor
+3 [STH:109] Nomads en-Kor
+3 [TSB:6] Disenchant
+4 [EXO:3] Cataclysm
+4 [M10:34] Soul Warden
+4 [VIS:123] Tithe
+4 [WTH:129] Empyrial Armor
+SB: 2 [6ED:47] Tariff
+SB: 1 [TSB:6] Disenchant
+SB: 1 [MMQ:1] Afterlife
+SB: 3 [10E:6] Aura of Silence
+SB: 2 [10E:61] Wrath of God
+SB: 3 [WTH:117] Abeyance
+SB: 2 [10E:45] Spirit Link
+SB: 1 [EXO:20] Soltari Visionary
+LAYOUT MAIN:(1,5)(CMC,false,50)|([AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250])([STH:109],[STH:109],[STH:109],[M10:34],[M10:34],[M10:34],[M10:34],[VIS:123],[VIS:123],[VIS:123],[VIS:123])([TMP:257],[TMP:257],[TMP:257],[TMP:257],[TSB:14],[TSB:14],[TSB:14],[TSB:14],[STH:124],[STH:124],[STH:124],[STH:124],[M11:39],[M11:39],[M11:39],[M11:39],[TSB:6],[TSB:6],[TSB:6])([10E:32],[10E:32],[10E:32],[EXO:20],[10E:6],[WTH:129],[WTH:129],[WTH:129],[WTH:129])([EXO:3],[EXO:3],[EXO:3],[EXO:3])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([10E:45],[10E:45])([TSB:6],[WTH:117],[WTH:117],[WTH:117],[6ED:47],[6ED:47])([EXO:20],[10E:6],[10E:6],[10E:6],[MMQ:1])([10E:61],[10E:61])

@@ -1,0 +1,20 @@
+4 [MMQ:324] Rishadan Port
+4 [TSB:87] Thornscape Battlemage
+4 [INV:246] Fires of Yavimaya
+4 [M12:165] Birds of Paradise
+4 [10E:354] Karplusan Forest
+4 [M12:182] Llanowar Elves
+4 [APC:128] Fire // Ice
+4 [PCY:136] Chimeric Idol
+4 [NEM:102] Blastoderm
+4 [NEM:113] Saproling Burst
+4 [PLS:60] Flametongue Kavu
+10 [AKH:254] Forest
+6 [AKH:253] Mountain
+SB: 1 [MMQ:316] Dust Bowl
+SB: 4 [PLS:111] Hull Breach
+SB: 1 [8ED:204] Obliterate
+SB: 3 [PLS:124] Shivan Wurm
+SB: 2 [INV:272] Simoon
+LAYOUT MAIN:(1,5)(CMC,false,50)|([AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:253],[AKH:253],[AKH:253],[AKH:253],[AKH:253],[AKH:253],[10E:354],[10E:354],[10E:354],[10E:354],[MMQ:324],[MMQ:324],[MMQ:324],[MMQ:324])([M12:182],[M12:182],[M12:182],[M12:182],[M12:165],[M12:165],[M12:165],[M12:165])([TSB:87],[TSB:87],[TSB:87],[TSB:87],[PCY:136],[PCY:136],[PCY:136],[PCY:136],[INV:246],[INV:246],[INV:246],[INV:246])([PLS:60],[PLS:60],[PLS:60],[PLS:60],[NEM:102],[NEM:102],[NEM:102],[NEM:102],[APC:128],[APC:128],[APC:128],[APC:128])([NEM:113],[NEM:113],[NEM:113],[NEM:113])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([MMQ:316])([PLS:111],[PLS:111],[PLS:111],[PLS:111],[INV:272],[INV:272])([PLS:124],[PLS:124],[PLS:124])([8ED:204])

@@ -1,0 +1,31 @@
+2 [M11:58] Jace Beleren
+4 [WWK:134] Creeping Tar Pit
+4 [WWK:145] Tectonic Edge
+4 [ZEN:70] Spreading Seas
+1 [AKH:44] Cancel
+1 [ZEN:220] Misty Rainforest
+3 [ROE:115] Inquisition of Kozilek
+4 [M13:223] Drowned Catacomb
+2 [ROE:85] Sea Gate Oracle
+2 [ROE:100] Consume the Meek
+4 [M11:70] Preordain
+1 [ZEN:229] Verdant Catacombs
+2 [ZEN:87] Disfigure
+3 [M12:98] Grave Titan
+2 [M14:96] Doom Blade
+4 [SOM:226] Darkslick Shores
+4 [WWK:31] Jace, the Mind Sculptor
+3 [AKH:252] Swamp
+5 [AKH:251] Island
+4 [M12:63] Mana Leak
+1 [DTK:98] Duress
+SB: 3 [SOM:69] Memoricide
+SB: 1 [M12:109] Sorin Markov
+SB: 1 [ROE:59] Deprive
+SB: 2 [ZEN:87] Disfigure
+SB: 3 [M14:215] Ratchet Bomb
+SB: 1 [M14:96] Doom Blade
+SB: 2 [DTK:98] Duress
+SB: 2 [M12:52] Flashfreeze
+LAYOUT MAIN:(1,7)(CMC,false,50)|([ZEN:220],[ZEN:229],[AKH:252],[AKH:252],[AKH:252],[WWK:134],[WWK:134],[WWK:134],[WWK:134],[SOM:226],[SOM:226],[SOM:226],[SOM:226],[M13:223],[M13:223],[M13:223],[M13:223],[WWK:145],[WWK:145],[WWK:145],[WWK:145],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251])([ZEN:87],[ZEN:87],[DTK:98],[ROE:115],[ROE:115],[ROE:115],[M11:70],[M11:70],[M11:70],[M11:70])([M14:96],[M14:96],[M12:63],[M12:63],[M12:63],[M12:63],[ZEN:70],[ZEN:70],[ZEN:70],[ZEN:70])([ROE:85],[ROE:85],[AKH:44],[M11:58],[M11:58])([WWK:31],[WWK:31],[WWK:31],[WWK:31])([ROE:100],[ROE:100])([M12:98],[M12:98],[M12:98])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([ZEN:87],[ZEN:87],[DTK:98],[DTK:98])([M14:96],[ROE:59],[M12:52],[M12:52],[M14:215],[M14:215],[M14:215])([SOM:69],[SOM:69],[SOM:69])([M12:109])

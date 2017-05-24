@@ -1,0 +1,33 @@
+2 [AKH:250] Plains
+1 [M11:229] Terramorphic Expanse
+4 [CON:113] Knight of the Reliquary
+4 [WWK:133] Celestial Colonnade
+1 [WWK:144] Stirring Wildwood
+2 [M13:229] Sunpetal Grove
+2 [WWK:142] Sejiri Steppe
+2 [M12:16] Gideon Jura
+3 [ARB:67] Dauntless Escort
+3 [ARB:12] Sovereigns of Lost Alara
+4 [ZEN:220] Misty Rainforest
+3 [M11:7] Baneslayer Angel
+1 [ZEN:211] Arid Mesa
+4 [M12:165] Birds of Paradise
+2 [ROE:3] Eldrazi Conscription
+2 [ZEN:229] Verdant Catacombs
+4 [CON:87] Noble Hierarch
+4 [ZEN:168] Lotus Cobra
+3 [WWK:31] Jace, the Mind Sculptor
+3 [ALA:9] Elspeth, Knight-Errant
+2 [AKH:251] Island
+4 [AKH:254] Forest
+SB: 2 [ROE:33] Linvala, Keeper of Silence
+SB: 1 [ZEN:68] Sphinx of Jwar Isle
+SB: 1 [ALA:155] Bant Charm
+SB: 2 [ROE:59] Deprive
+SB: 1 [ARB:67] Dauntless Escort
+SB: 3 [M12:11] Celestial Purge
+SB: 2 [M13:22] Oblivion Ring
+SB: 2 [AER:40] Negate
+SB: 1 [ROE:20] Emerge Unscathed
+LAYOUT MAIN:(1,8)(CMC,false,50)|([ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[WWK:133],[WWK:133],[WWK:133],[WWK:133],[M13:229],[M13:229],[ZEN:229],[ZEN:229],[AKH:250],[AKH:250],[WWK:142],[WWK:142],[AKH:251],[AKH:251],[WWK:144],[M11:229],[ZEN:211])([CON:87],[CON:87],[CON:87],[CON:87],[M12:165],[M12:165],[M12:165],[M12:165])([ZEN:168],[ZEN:168],[ZEN:168],[ZEN:168])([CON:113],[CON:113],[CON:113],[CON:113],[ARB:67],[ARB:67],[ARB:67])([ALA:9],[ALA:9],[ALA:9],[WWK:31],[WWK:31],[WWK:31])([M11:7],[M11:7],[M11:7],[M12:16],[M12:16])([ARB:12],[ARB:12],[ARB:12])([ROE:3],[ROE:3])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([ROE:20])([M12:11],[M12:11],[M12:11],[AER:40],[AER:40],[ROE:59],[ROE:59])([ARB:67],[M13:22],[M13:22],[ALA:155])([ROE:33],[ROE:33])([ZEN:68])
