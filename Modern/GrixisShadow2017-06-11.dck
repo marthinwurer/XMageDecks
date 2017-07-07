@@ -1,0 +1,32 @@
+4 [AER:57] Fatal Push
+2 [GTC:249] Watery Grave
+4 [KTK:239] Polluted Delta
+4 [5DN:36] Serum Visions
+2 [ARB:46] Terminate
+2 [ROE:115] Inquisition of Kozilek
+3 [KTK:56] Stubborn Denial
+4 [THS:107] Thoughtseize
+4 [ISD:78] Snapcaster Mage
+4 [KTK:230] Bloodstained Mire
+2 [RTR:238] Blood Crypt
+4 [ZEN:223] Scalding Tarn
+2 [FRF:72] Gurmag Angler
+2 [DTK:224] Kolaghan's Command
+1 [RTR:247] Steam Vents
+4 [DKA:52] Thought Scour
+2 [FRF:87] Tasigur, the Golden Fang
+1 [AKH:252] Swamp
+1 [AKH:251] Island
+4 [FUT:90] Street Wraith
+4 [WWK:57] Death's Shadow
+SB: 2 [SOM:187] Nihil Spellbomb
+SB: 2 [OGW:70] Flaying Tendrils
+SB: 2 [EMN:85] Collective Brutality
+SB: 2 [NPH:74] Surgical Extraction
+SB: 1 [DKA:149] Grafdigger's Cage
+SB: 1 [DTK:224] Kolaghan's Command
+SB: 3 [KLD:40] Ceremonious Rejection
+SB: 1 [KTK:56] Stubborn Denial
+SB: 1 [RTR:173] Izzet Staticaster
+LAYOUT MAIN:(1,7)(CMC,false,50)|([RTR:238],[RTR:238],[KTK:230],[KTK:230],[KTK:230],[KTK:230],[AKH:251],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[RTR:247],[AKH:252],[GTC:249],[GTC:249])([WWK:57],[WWK:57],[WWK:57],[WWK:57],[AER:57],[AER:57],[AER:57],[AER:57],[ROE:115],[ROE:115],[5DN:36],[5DN:36],[5DN:36],[5DN:36],[KTK:56],[KTK:56],[KTK:56],[DKA:52],[DKA:52],[DKA:52],[DKA:52],[THS:107],[THS:107],[THS:107],[THS:107])([ISD:78],[ISD:78],[ISD:78],[ISD:78],[ARB:46],[ARB:46])([DTK:224],[DTK:224])([FUT:90],[FUT:90],[FUT:90],[FUT:90])([FRF:87],[FRF:87])([FRF:72],[FRF:72])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([KLD:40],[KLD:40],[KLD:40],[DKA:149],[SOM:187],[SOM:187],[KTK:56],[NPH:74],[NPH:74])([EMN:85],[EMN:85])([OGW:70],[OGW:70],[RTR:173],[DTK:224])
