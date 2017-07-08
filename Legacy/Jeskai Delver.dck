@@ -1,0 +1,30 @@
+4 [TMP:340] Wasteland
+2 [C13:63] True-Name Nemesis
+4 [M11:149] Lightning Bolt
+4 [ALL:42] Force of Will
+3 [ZEN:220] Misty Rainforest
+1 [NPH:130] Batterskull
+4 [ICE:278] Swords to Plowshares
+2 [ZEN:211] Arid Mesa
+1 [BOK:163] Umezawa's Jitte
+4 [MMQ:61] Brainstorm
+1 [ROE:146] Forked Bolt
+1 [M14:163] Young Pyromancer
+1 [7ED:67] Counterspell
+3 [ZEN:67] Spell Pierce
+4 [ZEN:223] Scalding Tarn
+3 [3ED:306] Volcanic Island
+3 [3ED:304] Tundra
+4 [NEM:30] Daze
+3 [WWK:20] Stoneforge Mystic
+4 [ISD:51] Delver of Secrets
+4 [M12:73] Ponder
+SB: 2 [RTR:93] Electrickery
+SB: 2 [ISD:78] Snapcaster Mage
+SB: 3 [NPH:74] Surgical Extraction
+SB: 2 [5ED:262] Pyroblast
+SB: 2 [ARB:8] Meddling Mage
+SB: 2 [MPS-AKH:3] Containment Priest
+SB: 2 [DGM:135] Wear // Tear
+LAYOUT MAIN:(1,5)(CMC,false,50)|([ZEN:211],[ZEN:211],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[3ED:304],[3ED:304],[3ED:304],[3ED:306],[3ED:306],[3ED:306],[TMP:340],[TMP:340],[TMP:340],[TMP:340])([MMQ:61],[MMQ:61],[MMQ:61],[MMQ:61],[ISD:51],[ISD:51],[ISD:51],[ISD:51],[ROE:146],[M11:149],[M11:149],[M11:149],[M11:149],[M12:73],[M12:73],[M12:73],[M12:73],[ZEN:67],[ZEN:67],[ZEN:67],[ICE:278],[ICE:278],[ICE:278],[ICE:278])([7ED:67],[NEM:30],[NEM:30],[NEM:30],[NEM:30],[WWK:20],[WWK:20],[WWK:20],[BOK:163],[M14:163])([C13:63],[C13:63])([NPH:130],[ALL:42],[ALL:42],[ALL:42],[ALL:42])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([RTR:93],[RTR:93],[5ED:262],[5ED:262],[NPH:74],[NPH:74],[NPH:74])([MPS-AKH:3],[MPS-AKH:3],[ARB:8],[ARB:8],[ISD:78],[ISD:78])([DGM:135],[DGM:135])
