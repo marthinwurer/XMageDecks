@@ -1,0 +1,62 @@
+1 [ARN:9] Juzam Djinn
+1 [ARN:61] King Suleiman
+1 [ARN:24] Old Man of the Sea
+1 [ATQ:21] Millstone
+1 [LEG:209] Tundra Wolves
+1 [LEA:222] Savannah Lions
+1 [LEA:223] Serra Angel
+1 [LEA:187] Balance
+1 [LEA:264] Mox Ruby
+1 [LEA:265] Mox Sapphire
+1 [LEA:105] Gaea's Liege
+1 [LEA:269] Sol Ring
+1 [LEA:262] Mox Jet
+1 [LEA:263] Mox Pearl
+1 [LEA:261] Mox Emerald
+1 [LEA:184] Wheel of Fortune
+1 [LEB:195] Circle of Protection: Black
+1 [LEG:286] Nicol Bolas
+1 [ARN:51] Mijae Djinn
+1 [LEA:85] Timetwister
+1 [LEA:118] Living Lands
+1 [LEA:84] Time Walk
+1 [ARN:90] Library of Alexandria
+1 [LEA:277] Badlands
+1 [LEA:278] Bayou
+1 [LEA:232] Black Lotus
+1 [LEA:155] Goblin King
+1 [ARN:49] Kird Ape
+1 [DRK:57] Blood Moon
+1 [LEA:274] Time Vault
+1 [LEA:150] Fireball
+1 [LEA:13] Demonic Tutor
+1 [LEA:97] Channel
+1 [LEA:51] Braingeyser
+1 [LEA:93] Aspect of Wolf
+1 [LEA:123] Regrowth
+1 [LEA:288] Savannah
+1 [LEA:289] Scrubland
+1 [LEA:286] Plains
+1 [LEA:287] Plateau
+1 [LEA:280] Forest
+1 [DRK:114] Maze of Ith
+1 [LEA:284] Mountain
+1 [LEA:282] Island
+1 [ARN:74] City in a Bottle
+1 [ATQ:73] Strip Mine
+1 [LEB:48] Ancestral Recall
+1 [LEG:65] Mana Drain
+1 [LEA:27] Nightmare
+1 [ARN:32] Erhnam Djinn
+1 [ATQ:70] Mishra's Workshop
+1 [DRK:109] Tormod's Crypt
+1 [LEB:302] Volcanic Island
+1 [LEA:291] Swamp
+1 [LEA:292] Taiga
+1 [ARN:25] Serendib Djinn
+1 [ATQ:68] Mishra's Factory
+1 [LEA:295] Underground Sea
+1 [LEA:293] Tropical Island
+1 [LEA:294] Tundra
+LAYOUT MAIN:(1,8)(CMC,false,50)|([LEA:232],[ARN:90],[ATQ:70],[LEA:261],[LEA:262],[LEA:263],[LEA:264],[LEA:265],[ATQ:73],[LEA:287],[LEA:294],[LEA:295],[LEA:277],[LEA:292],[LEA:288],[LEA:289],[LEB:302],[LEA:278],[LEA:293],[LEA:286],[LEA:282],[LEA:291],[LEA:284],[LEA:280],[ATQ:68],[DRK:114],[DRK:109])([LEB:48],[LEA:150],[LEA:269],[LEG:209],[LEA:222],[ARN:49])([LEA:187],[LEA:51],[LEA:97],[LEA:13],[LEG:65],[LEA:123],[LEA:274],[LEA:84],[LEA:93],[LEB:195],[ARN:74],[ARN:61],[ATQ:21])([LEA:85],[LEA:184],[LEA:155],[ARN:51],[ARN:24],[DRK:57])([LEA:118],[ARN:9],[ARN:32],[ARN:25])([LEA:223])([LEA:27],[LEA:105])([LEG:286])
+LAYOUT SIDEBOARD:(0,0)(CMC,false,50)|
